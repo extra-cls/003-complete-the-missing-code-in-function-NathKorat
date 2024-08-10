@@ -4,6 +4,7 @@ function sum(value1, value2){
     parameters then return the result
     */
     // YOUR CODE HERE ....
+    return Number(value1) + Number(value2)
     
 }
 
@@ -20,6 +21,7 @@ const greeting = (name) => {
     */
 
     // YOUR CODE HERE ...
+    return "Hello " + name + "!"
     
 }
 
